@@ -1,0 +1,17 @@
+{
+  "name": "is-in-browser-viewport",
+  "version": "1.0.1",
+  "description": "Package that checks if an element is in the browser viewport and provides a callback fumction when the element is in viewport and when the element leaves the viewport",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "check if an element is in the browser viewport",
+    "Viewport",
+    "Browser Viewport",
+    "Intersection Observer API"
+  ],
+  "author": "Nigel Dcruz",
+  "license": "ISC"
+}
