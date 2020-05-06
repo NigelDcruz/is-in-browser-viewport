@@ -1,17 +1,26 @@
 {
   "name": "is-in-browser-viewport",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Package that checks if an element is in the browser viewport and provides a callback fumction when the element is in viewport and when the element leaves the viewport",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NigelDcruz/is-in-browser-viewport.git"
+  },
   "keywords": [
     "check if an element is in the browser viewport",
     "Viewport",
     "Browser Viewport",
+    "on scroll check if element is in viewport",
     "Intersection Observer API"
   ],
-  "author": "Nigel Dcruz",
+  "author": {
+    "name": "Nigel Dcruz",
+    "email": "nigeldcruz7@gmail.com",
+    "url": "https://www.nigeldcruz.in/"
+  },
   "license": "ISC"
 }

@@ -1,5 +1,6 @@
 ## About
 - This package uses the Intersection Observer API to detect if an element is in the browser viewport.
+- When the webpage is scrolled, the package detects if the selected element is in the browser viewport or not.
 
 ## Example
 ```
